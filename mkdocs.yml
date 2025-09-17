@@ -1,0 +1,17 @@
+site_name: COMP1011
+site_url: https://gdoyle87.github.io/COMP1011/
+nav:
+  - Home: index.md
+  - Week 1: wk_one.md
+  - Other Notes: https://gdoyle87.github.io/
+
+theme: readthedocs
+markdown_extensions:
+  - md_in_html
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/asciinema-player@3.0.1/dist/bundle/asciinema-player.js
+
+extra_css:
+  - https://cdn.jsdelivr.net/npm/asciinema-player@3.0.1/dist/bundle/asciinema-player.css
+ite_name: My Docs
