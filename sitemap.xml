@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://gdoyle87.github.io/COMP1011/</loc>
-         <lastmod>2025-09-17</lastmod>
+         <lastmod>2025-12-11</lastmod>
+    </url>
+    <url>
+         <loc>https://gdoyle87.github.io/COMP1011/final/</loc>
+         <lastmod>2025-12-11</lastmod>
     </url>
     <url>
          <loc>https://gdoyle87.github.io/COMP1011/wk_one/</loc>
-         <lastmod>2025-09-17</lastmod>
+         <lastmod>2025-12-11</lastmod>
     </url>
 </urlset>
